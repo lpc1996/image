@@ -6,6 +6,7 @@
     + ![yes-4](yes-4.png)
     + ![yes-5](yes-5.png)
     + ![yes-6](yes-6.png)
+    + ![yes-7](yes-7.png)
     + ![add-1](add-1.png)
     + ![add-2](add-2.png)
     + ![add-3](add-3.png)
@@ -38,4 +39,4 @@
     + ![search-1](search-1.png)
     + ![search-2](search-2.png)
     + ![search-3](search-3.png)
-    
+    + ![search-4](search-4.png)    

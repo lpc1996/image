@@ -18,6 +18,7 @@
     + ![gear-1](gear-1.png)
     + ![gear-2](gear-2.png)
     + ![gear-3](gear-3.png)
+    + ![gear-4](gear-4.png)
     + ![pause-1](pause-1.png)
     + ![pause-2](pause-2.png)
     + ![pause-3](pause-3.png)
@@ -34,5 +35,7 @@
     + ![save-1](save-1.png)
     + ![save-2](save-2.png)
     + ![save-3](save-3.png)
-
+    + ![search-1](search-1.png)
+    + ![search-2](search-2.png)
+    + ![search-3](search-3.png)
     
